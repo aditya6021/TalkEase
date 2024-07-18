@@ -1,4 +1,4 @@
-# Chat Application
+# TalkEase
 
 This Android chat application leverages Google Firebase for authentication, database, and storage functionalities. Users can log in, search, and chat with others on the server. Additionally, users can upload a profile picture and update their name. This README file provides an overview of the app's features, setup instructions, and dependencies.
 
@@ -49,7 +49,7 @@ Navigate to the cloned repository and select it.
 
 ### Configure Firebase:
 
--*Go to the Firebase Console and create a new project*.
+- *Go to the Firebase Console and create a new project*.
 *Register your app with Firebase by adding the Android package name.*
 -*Download the google-services.json file and place it in the app directory of your project.*
 -*Follow the Firebase setup instructions to configure your Firebase project.*
@@ -61,22 +61,22 @@ Navigate to the cloned repository and select it.
 
 ## Usage
 
-### Login:
+#### Login:
 
 *Open the app and log in using your email and password.*
 If you don't have an account, sign up using the provided sign-up option.
 
-### Chat:
+#### Chat:
 
-*Search for other users by their username.*
+- Search for other users by their username.
 Start a chat by selecting a user from the search results.
 Send and receive messages in real-time.
 
-### Profile:
+#### Profile:
 
 -*Upload a profile picture by selecting the profile picture option.*
 -*Update your username in the profile settings.*
 
-### Contact
+## Contact
 For any questions or suggestions, feel free to contact adityapratapsingh273@gmail.com.
 
