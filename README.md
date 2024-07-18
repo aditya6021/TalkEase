@@ -1,9 +1,16 @@
 # TalkEase
 
 This Android chat application leverages Google Firebase for authentication, database, and storage functionalities. Users can log in, search, and chat with others on the server. Additionally, users can upload a profile picture and update their name. This README file provides an overview of the app's features, setup instructions, and dependencies.
+## Interface
+
+![6](https://github.com/user-attachments/assets/db331634-7327-4242-80e5-113d08c5daa8)
+![5](https://github.com/user-attachments/assets/286668fd-8152-4f6a-b7a1-6d152f7ae1a1)
+![4](https://github.com/user-attachments/assets/3c909c02-00c4-474b-99d2-666fa131f827)
+![3](https://github.com/user-attachments/assets/b28a04d3-2f5c-4701-9977-2ed1b55229ee)
+![2](https://github.com/user-attachments/assets/8be7962b-11c3-4ef8-8138-fa23fb84b662)
+![1](https://github.com/user-attachments/assets/69e4869c-ebbe-4968-83f0-82981cff74fd)
 
 ## Features
-
 - **User Authentication**: Login page with Firebase Authentication.
 - **Chat Functionality**: Search and chat with any person on the server.
 - **User Profile**: Upload profile pictures and update user names.
@@ -43,39 +50,39 @@ cd chat-application
 ```
 ### Open the project in Android Studio:
 
--*Open Android Studio.*
-Click on "Open an existing Android Studio project".
-Navigate to the cloned repository and select it.
+- Open Android Studio.
+- Click on "Open an existing Android Studio project".
+- Navigate to the cloned repository and select it.
 
 ### Configure Firebase:
 
-- *Go to the Firebase Console and create a new project*.
-*Register your app with Firebase by adding the Android package name.*
--*Download the google-services.json file and place it in the app directory of your project.*
--*Follow the Firebase setup instructions to configure your Firebase project.*
+- Go to the Firebase Console and create a new project.
+- Register your app with Firebase by adding the Android package name.
+- Download the google-services.json file and place it in the app directory of your project.
+- Follow the Firebase setup instructions to configure your Firebase project.
 
 ### Build and run the project:
 
--*Sync the project with Gradle files.*
--*Build and run the project on an emulator or a physical device.*
+- Sync the project with Gradle files.
+- Build and run the project on an emulator or a physical device.
 
 ## Usage
 
 #### Login:
 
-*Open the app and log in using your email and password.*
-If you don't have an account, sign up using the provided sign-up option.
+- Open the app and log in using your email and password.
+- If you don't have an account, sign up using the provided sign-up option.
 
 #### Chat:
 
 - Search for other users by their username.
-Start a chat by selecting a user from the search results.
-Send and receive messages in real-time.
+- Start a chat by selecting a user from the search results.
+- Send and receive messages in real-time.
 
 #### Profile:
 
--*Upload a profile picture by selecting the profile picture option.*
--*Update your username in the profile settings.*
+- Upload a profile picture by selecting the profile picture option.
+- Update your username in the profile settings.
 
 ## Contact
 For any questions or suggestions, feel free to contact adityapratapsingh273@gmail.com.
