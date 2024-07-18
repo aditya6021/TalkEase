@@ -14,7 +14,7 @@ This Android chat application leverages Google Firebase for authentication, data
 
 The project uses the following dependencies:
 
-```gradle
+```bash
 dependencies {
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.11.0")
@@ -35,8 +35,9 @@ dependencies {
 }
 ```
 ##Installation and Setup
+
 ###Clone the repository:
-```gradle
+```bash
 git clone https://github.com/yourusername/chat-application.git
 cd chat-application
 ```
